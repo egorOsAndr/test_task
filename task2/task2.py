@@ -38,8 +38,8 @@ def func(circle: Circle, arr: list[Point]):
 
 
 def main():
-    c = read_file1('file1.txt')
-    p = read_file2('file2.txt')
+    c = read_file1('task2/file1.txt')
+    p = read_file2('task2/file2.txt')
     func(c, p)
 
 
